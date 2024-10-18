@@ -1,0 +1,78 @@
+.navbar-expand-lg .navbar-brand{
+    font-size: 3rem;
+    color: darkmagenta;
+    text-shadow: 4px 4px 2px rgba(0,0,0,0.4);
+    font-weight: bolder;
+}
+.navbar-expand-lg{
+    background-color: antiquewhite;
+    
+}
+ .nav-item{
+    font-size:1.3rem;
+}
+.nav-item:hover{
+    background-color: brown;
+    
+}
+
+.d-flex .btn{
+    background-color: yellowgreen;
+    border-radius: 20px ;
+}
+.container .page{
+font-size: 4rem;
+margin-top: 180px;
+font-family: 'Courier New', Courier, monospace;
+color: white;
+font-weight: bolder;
+}
+.container .para{
+    font-size: 1.2rem;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.hero{
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(./People/business.jpg);
+    background-size: cover;
+    min-height: 100vh;
+    background-attachment: fixed;
+}
+.card-img-top{
+    width: 100%;
+    height: auto;
+    max-height: 150px;
+    object-fit: cover;
+}
+.card{
+ display: flex;
+ background: #fff;
+ width: 300px;
+ height: auto;
+border-radius: 20px;
+ overflow: hidden;
+ box-shadow: 0px 4px 10px 0px    
+}
+a .btn {
+    border-radius: 25px;
+    width: 120px;
+}
+
+.life{
+    text-shadow: 4px 4px 2px rgba(0,0,0,0.5);
+}
+.many{
+    display: inline;
+    display: flex;
+}
+.many h5{
+    display: flex;
+    margin-left: 8px;
+    color: dimgrey;
+    text-align: center;
+    margin-top: 8px;
+}
+
+
+
+
